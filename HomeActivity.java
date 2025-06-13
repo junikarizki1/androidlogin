@@ -1,5 +1,4 @@
-package com.example.loginform; // ganti sesuai nama package kamu
-
+package com.example.loginform;
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Button;
